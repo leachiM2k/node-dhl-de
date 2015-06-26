@@ -1,0 +1,11 @@
+{
+  "name": "node-dhl-de",
+  "version": "1.0.0",
+  "description": "finder for dhl paketstations",
+  "main": "index.js",
+  "author": "Michael Rotmanov <leachim2k@leachim2k.de>",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.9.1"
+  }
+}
